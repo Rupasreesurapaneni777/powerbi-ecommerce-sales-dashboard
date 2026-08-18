@@ -242,11 +242,12 @@ Power BI dashboard containing visualizations, DAX measures, slicers, and interac
 
 Dataset used to build the Power BI dashboard.
 
-### `dashboard-overview.png`
+### <img width="1288" height="717" alt="Commerce" src="https://github.com/user-attachments/assets/d9ea17f4-0251-425d-bfde-ddfa80c5106b" />
+
 
 Screenshot of the main E-Commerce Sales Dashboard.
 
-### `sales-profit-analysis.png`
+### <img width="1277" height="725" alt="Sales profit" src="https://github.com/user-attachments/assets/74df9c85-62e6-47c4-a87e-86ec27713c05" />
 
 Screenshot of the detailed Sales & Profit Analysis dashboard.
 
